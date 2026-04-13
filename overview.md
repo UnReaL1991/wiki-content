@@ -1,7 +1,5 @@
 # Introduction
 
-BRITS PvE WORLDS PLAYER GUIDE
-
 ## Overview
 Welcome to the introductory player guide for Brits PvE Worlds rust server, doesn’t matter if you are an inexperienced newbie or a veteran in this wide community, this wiki is made for everyone alike !!
 
