@@ -1,5 +1,5 @@
 # Food System
-You can find various special food items, meals, and ingredients on this server. Every food item has its own special properties and effects on the player and/or teammates. Be aware that these meals can spoil over time if they are not kept in a fridge!
+You can find various special food items, meals, and ingredients on this server. Every food item has its own special properties and effects on the player and/or their teammates. Be aware that these meals can spoil over time if they are not kept in a fridge!
 
 ## Basics
 In the bottom right corner, you will see four green buttons that can be clicked while you are in your inventory:
@@ -199,7 +199,7 @@ This section is sorted into the most frequently used and "good to know" meals. A
   <summary>⤵️ <h3>OTHER MEALS</h3>⤴️ </summary>
 
   ### List of all the other meals
-  - This meals don't have only nish usecases and are not really much used at all.
+  - These meals only have niche use-cases, and are used rarely.
 
   ![](https://github.com/user-attachments/assets/83cd42fe-afdd-4d4b-9592-90ae9ebecb72)
   
