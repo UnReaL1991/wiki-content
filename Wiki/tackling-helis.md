@@ -33,15 +33,15 @@ You can build your own heli tower with god peeks like the heli tower 1-6 have an
 ### How to build your own tower
 There are many different ways to build a heli tower, I will show you two different towers. This towers can be included in your main base or be place somewhere else in your home world. 
  - Be aware, to many Helis on the mainland will produce lag for you and other players!
- - With this two designs you can't build higher then 5 floors, stability prevents it!
-**TIP:** The higher the foundation starts, the better the visibility. A mountain or hill is well suited for a helicopter landing pad.
+ - With these two designs you can't build higher then 5 floors, stability prevents it!
+**TIP:** The higher the foundation starts, the better the visibility. A mountain or hill is well suited for your own heli tower.
 
 ### Instant reload feature
 Each self-made tower can be upgradet with a turret, that automaticly reloads your M249 (M2). 
   - You only need 1 Turret, a spare M2 and ammunation.
   - The turret doesn't need power!
   - Just put a M2 into the turret and ammunation and it's finished.
-  - If you now open the turret and right click on your M2 (in your inventory), it will be replaced with the M2 of the turret with full ammo. You can also drag and drop it, if you have for example, a Golden M2 and only want to use that.
+  - If you now open the turret and hover loot on your M2 (in your inventory), it will be replaced with the M2 of the turret with full ammo. You can also drag and drop it, if you have for example, a Golden M2 and only want to use that.
 
 ## Tower 1 (step-by-step)
 ![](https://github.com/user-attachments/assets/25e96196-72ce-4467-912c-f2d591ade333) 
