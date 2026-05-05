@@ -62,7 +62,7 @@ Clicking on **OVERVIEW** will show a description of all buttons and information 
 Take a look around all the differnt skills and decide what skills are suitable for your playstyle. 
 But there are is one nesessary skill to learn; 
 
-![](image/Combat/Maintenance.png)
+![](../assets/Combat/Maintenance.png)
 
 *You will find this skill in the combat skill tree*
 - When fully leveled, this skill prevents all durability damage to weapons, tools, and other equipment.
@@ -76,15 +76,15 @@ The most recommended skills are those that accelerate your leveling process. Fol
 <details>
   <summary>🔽 <h3>SKILLS TO SKIP</h3> 🔼</summary>
   
-  ![](image/Mining/RobustPickaxe.png)
+  ![](../assets/Mining/RobustPickaxe.png)
   - This skill is unnecessary if you have already leveled up Maintenance.
   ---
 
-  ![](image/Mining/Refiner.png)
+  ![](../assets/Mining/Refiner.png)
   - It’s a 'nice-to-have' skill, but not essential. Keep in mind that refined materials do not count toward Quartermaster tasks.
   ---
 
-  ![](image/Mining/StoneSenseUltimate.png)
+  ![](../assets/Mining/StoneSenseUltimate.png)
   - This ultimate can be unlocked later; it is not necessary during the early game.
 </details>
 
@@ -95,11 +95,11 @@ In this section almost all skills are important,the only once you should skip fo
 <details>
   <summary>🔽 <h3>SKILLS TO SKIP</h3> 🔼</summary>
   
-  ![](image/Woodcutting/Chimney.png)
+  ![](../assets/Woodcutting/Chimney.png)
   - Charcole isn't importatend in the early game.
   ---
 
-  ![](image/Woodcutting/RobustAxe.png)
+  ![](../assets/Woodcutting/RobustAxe.png)
   - This skill is unnecessary if you have already leveled up Maintenance.
   ---
 </details>
@@ -113,32 +113,32 @@ Once you start tackling Raids, Bradleys, and Helis, focus on the following skill
 <details> 
   <summary>🔽 <h3>MID GAME SKILLS</h3> 🔼</summary>
   
-  ![](image/Combat/DrumMag.png)
+  ![](../assets/Combat/DrumMag.png)
   - Max Level: Increases magazine capacity by 50%.
   ---
   **Raiding Section:**
   
-  ![](image/Raiding/TrapEvader.png)
+  ![](../assets/Raiding/TrapEvader.png)
   - Just to unlock the second row.
   ---
 
-  ![](image/Raiding/BlastSuit.png)
+  ![](../assets/Raiding/BlastSuit.png)
   - Prevents you from taking damage from your own rockets and explosives.
   ---
 
-  ![](image/Raiding/ReliableExplosive.png)
+  ![](../assets/Raiding/ReliableExplosive.png)
   - Your satchel charges will now always explode.
   ---
 
-  ![](image/Raiding/Demolition.png)
+  ![](../assets/Raiding/Demolition.png)
   - Speeds up the raiding process.
   ---
 
-  ![](image/Raiding/PressedExplosive.png)
+  ![](../assets/Raiding/PressedExplosive.png)
   - Speeds up the raiding process.
   ---
 
-  ![](image/Raiding/RainHellfireUltimate.png)
+  ![](../assets/Raiding/RainHellfireUltimate.png)
   - Easily destroys easy and medium-tier bases. It’s always a great way to start a raid. However, watch out for SAM sites, as they will shoot down your MLRS strike—make sure to destroy them first (if they are smoking, they are disabled).
   ---
 </details>
@@ -153,27 +153,27 @@ When starting your first harvest of hemp or other plants, keep in mind that[lege
 <details>
   <summary>🔽 <h3>HARVESTING SKILLS</h3>🔼 </summary>
   
-  ![](image/Harvesting/AmatureHarvester.png)
+  ![](../assets/Harvesting/AmatureHarvester.png)
   - Unlocks the second row and provides more resources when gathering wild collectibles.
   ---
 
-  ![](image/Harvesting/HobbiestHarvester.png)
+  ![](../assets/Harvesting/HobbiestHarvester.png)
   - Increases the yield from wild collectibles. 
   ---
 
-  ![](image/Harvesting/AmatureFarmer.png)
+  ![](../assets/Harvesting/AmatureFarmer.png)
   - Increases the yield from your **grown** crops.
   ---
 
-  ![](image/Harvesting/ExpertHarvester.png)
+  ![](../assets/Harvesting/ExpertHarvester.png)
   - Now grants the maximum yield from all wild collectibles.
   ---
 
-  ![](image/Harvesting/ExpertFarmer.png)
+  ![](../assets/Harvesting/ExpertFarmer.png)
   - You now receive the maximum yield from your grown plants.
   ---
 
-  ![](image/Harvesting/BotanistUltimate.png)
+  ![](../assets/Harvesting/BotanistUltimate.png)
   - This is one of the best ultimates because it allows you to manually choose the genes.
   - Note that only the very next seed you plant will have the selected genes.
   ---
@@ -191,466 +191,466 @@ Here you will find all available skills on the server, organized into sections.
 <details>
   <summary>⬇️<h3>MINING</h3>⬆️</summary>
 
-  ![](image/Mining/StoneSenseUltimate.png)
+  ![](../assets/Mining/StoneSenseUltimate.png)
   
   ---
-  ![](image/Mining/AmateurMiner.png)
+  ![](../assets/Mining/AmateurMiner.png)
   
   ---
-  ![](image/Mining/AdeptMiner.png)
+  ![](../assets/Mining/AdeptMiner.png)
   
   ---
-  ![](image/Mining/ExpertMiner.png)
+  ![](../assets/Mining/ExpertMiner.png)
   
   ---
-  ![](image/Mining/EfficientMiner.png)
+  ![](../assets/Mining/EfficientMiner.png)
   
   ---
-  ![](image/Mining/InstantMining.png)
+  ![](../assets/Mining/InstantMining.png)
   
   ---
-  ![](image/Mining/Refiner.png)
+  ![](../assets/Mining/Refiner.png)
   
   ---
-  ![](image/Mining/RobustPickaxe.png)
+  ![](../assets/Mining/RobustPickaxe.png)
   
   ---
-  ![](image/Mining/SixthSense.png)
+  ![](../assets/Mining/SixthSense.png)
   
   ---
-  ![](image/Mining/StrokeOfLuck.png)
+  ![](../assets/Mining/StrokeOfLuck.png)
 </details>
 
 ---
 <details>
   <summary>⬇️<h3>WOODCUTTING</h3>⬆️</summary>
 
-  ![](image/Woodcutting/DeforestationUlitmate.png)
+  ![](../assets/Woodcutting/DeforestationUlitmate.png)
 
   ---
-  ![](image/Woodcutting/AmatureWoodcutter.png)
+  ![](../assets/Woodcutting/AmatureWoodcutter.png)
 
   ---
-  ![](image/Woodcutting/AdeptWoodcutter.png)
+  ![](../assets/Woodcutting/AdeptWoodcutter.png)
 
   ---
-  ![](image/Woodcutting/ExpertWoodcutter.png)
+  ![](../assets/Woodcutting/ExpertWoodcutter.png)
 
   ---
-  ![](image/Woodcutting/Chimney.png)
+  ![](../assets/Woodcutting/Chimney.png)
 
   ---
-  ![](image/Woodcutting/EfficientLumberjack.png)
+  ![](../assets/Woodcutting/EfficientLumberjack.png)
 
   ---
-  ![](image/Woodcutting/InstantWoodcutting.png)
+  ![](../assets/Woodcutting/InstantWoodcutting.png)
 
   ---
-  ![](image/Woodcutting/RobustAxe.png)
+  ![](../assets/Woodcutting/RobustAxe.png)
 
   ---
-  ![](image/Woodcutting/TreeRegrowth.png)
+  ![](../assets/Woodcutting/TreeRegrowth.png)
 </details>
 
 ---
 <details>
   <summary>⬇️<h3>SKINNING</h3>⬆️</summary>
 
-  ![](image/Skinning/PrimalIdentityUltimate.png)
+  ![](../assets/Skinning/PrimalIdentityUltimate.png)
 
   ---
-  ![](image/Skinning/AmatureSkinner.png)
+  ![](../assets/Skinning/AmatureSkinner.png)
 
   ---
-  ![](image/Skinning/AdeptSkinner.png)
+  ![](../assets/Skinning/AdeptSkinner.png)
 
   ---
-  ![](image/Skinning/ExpertSkinner.png)
+  ![](../assets/Skinning/ExpertSkinner.png)
 
   ---
-  ![](image/Skinning/InstantSkinner.png)
+  ![](../assets/Skinning/InstantSkinner.png)
 
   ---
-  ![](image/Skinning/RobustKnife.png)
+  ![](../assets/Skinning/RobustKnife.png)
 
   ---
-  ![](image/Skinning/SteelKnife.png)
+  ![](../assets/Skinning/SteelKnife.png)
 
   ---
-  ![](image/Skinning/SkilledHunter.png)
+  ![](../assets/Skinning/SkilledHunter.png)
 
   ---
-  ![](image/Skinning/SkilledTracker.png)
+  ![](../assets/Skinning/SkilledTracker.png)
 
   ---
-  ![](image/Skinning/SkinningLuck.png)
+  ![](../assets/Skinning/SkinningLuck.png)
 
   ---
-  ![](image/Skinning/SurvivalChef.png)
+  ![](../assets/Skinning/SurvivalChef.png)
 </details>
 
 ---
 <details>
   <summary>⬇️<h3>HARVESTING</h3>⬆️</summary>
 
-  ![](image/Harvesting/BotanistUltimate.png)
+  ![](../assets/Harvesting/BotanistUltimate.png)
 
   ---
-  ![](image/Harvesting/AmatureFarmer.png)
+  ![](../assets/Harvesting/AmatureFarmer.png)
 
   ---
-  ![](image/Harvesting/ExpertFarmer.png)
+  ![](../assets/Harvesting/ExpertFarmer.png)
 
   ---
-  ![](image/Harvesting/AmatureHarvester.png)
+  ![](../assets/Harvesting/AmatureHarvester.png)
 
   ---
-  ![](image/Harvesting/HobbiestHarvester.png)
+  ![](../assets/Harvesting/HobbiestHarvester.png)
 
   ---
-  ![](image/Harvesting/ExpertHarvester.png)
+  ![](../assets/Harvesting/ExpertHarvester.png)
   
   ---
-  ![](image/Harvesting/BraidedLine.png)
+  ![](../assets/Harvesting/BraidedLine.png)
 
   ---
-  ![](image/Harvesting/ExtraPockets.png)
+  ![](../assets/Harvesting/ExtraPockets.png)
 
   ---
-  ![](image/Harvesting/Fisherman.png)
+  ![](../assets/Harvesting/Fisherman.png)
 
   ---
-  ![](image/Harvesting/Ichthyologist.png)
+  ![](../assets/Harvesting/Ichthyologist.png)
 
   ---
-  ![](image/Harvesting/LuckyForager.png)
+  ![](../assets/Harvesting/LuckyForager.png)
 
   ---
-  ![](image/Harvesting/ForagersIntuition.png)
+  ![](../assets/Harvesting/ForagersIntuition.png)
 </details>
 
 ---
 <details>
   <summary>⬇️<h3>MEDICAL</h3>⬆️</summary>
 
-  ![](image/Medical/MessiahUltimate.png)
+  ![](../assets/Medical/MessiahUltimate.png)
 
   ---
-  ![](image/Medical/AccidentEvasion.png)
+  ![](../assets/Medical/AccidentEvasion.png)
 
   ---
-  ![](image/Medical/PerfectBalance.png)
+  ![](../assets/Medical/PerfectBalance.png)
 
   ---
-  ![](image/Medical/BandageExpert.png)
+  ![](../assets/Medical/BandageExpert.png)
 
   ---
-  ![](image/Medical/BattleMedic.png)
+  ![](../assets/Medical/BattleMedic.png)
 
   ---
-  ![](image/Medical/ExposedRadiation.png)
+  ![](../assets/Medical/ExposedRadiation.png)
 
   ---
-  ![](image/Medical/RadiationExpert.png)
+  ![](../assets/Medical/RadiationExpert.png)
 
   ---
-  ![](image/Medical/FlameRetardant.png)
+  ![](../assets/Medical/FlameRetardant.png)
 
   ---
-  ![](image/Medical/RuggedUp.png)
+  ![](../assets/Medical/RuggedUp.png)
 
   ---
-  ![](image/Medical/LeadLined.png)
+  ![](../assets/Medical/LeadLined.png)
 
   ---
-  ![](image/Medical/Revitalization.png)
+  ![](../assets/Medical/Revitalization.png)
 
   ---
-  ![](image/Medical/SecondWind.png)
+  ![](../assets/Medical/SecondWind.png)
 
   ---
-  ![](image/Medical/FreshSpawn.png)
+  ![](../assets/Medical/FreshSpawn.png)
 </details>
 
 ---
 <details>
   <summary>⬇️<h3>COMBAT</h3>⬆️</summary>
 
-  ![](image/Combat/VampiricTendenciesUltimate.png)
+  ![](../assets/Combat/VampiricTendenciesUltimate.png)
 
   ---
-  ![](image/Combat/AnimalTamer.png)
+  ![](../assets/Combat/AnimalTamer.png)
 
   ---
-  ![](image/Combat/DefenceResearch.png)
+  ![](../assets/Combat/DefenceResearch.png)
 
   ---
-  ![](image/Combat/ScientificBreakthrough.png)
+  ![](../assets/Combat/ScientificBreakthrough.png)
 
   ---
-  ![](image/Combat/DrumMag.png)
+  ![](../assets/Combat/DrumMag.png)
 
   ---
-  ![](image/Combat/Duelist.png)
+  ![](../assets/Combat/Duelist.png)
 
   ---
-  ![](image/Combat/Maintenance.png)
+  ![](../assets/Combat/Maintenance.png)
 
   ---
-  ![](image/Combat/Resourceful.png)
+  ![](../assets/Combat/Resourceful.png)
 
   ---
-  ![](image/Combat/Ricochet.png)
+  ![](../assets/Combat/Ricochet.png)
 
   ---
-  ![](image/Combat/SixthSense.png)
+  ![](../assets/Combat/SixthSense.png)
 
   ---
-  ![](image/Combat/SupersonicThrust.png)
+  ![](../assets/Combat/SupersonicThrust.png)
 </details>
 
 ---
 <details>
   <summary>⬇️<h3>BUILD CRAFT</h3>⬆️</summary>
   
-  ![](image/Build_Craft/AccessGrantedUltimate.png)
+  ![](../assets/Build_Craft/AccessGrantedUltimate.png)
 
   ---
-  ![](image/Build_Craft/AmatureTinkerer.png)
+  ![](../assets/Build_Craft/AmatureTinkerer.png)
 
   ---
-  ![](image/Build_Craft/AdeptTinkerer.png)
+  ![](../assets/Build_Craft/AdeptTinkerer.png)
 
   ---
-  ![](image/Build_Craft/ExpertTinkerer.png)
+  ![](../assets/Build_Craft/ExpertTinkerer.png)
 
   ---
-  ![](image/Build_Craft/ThriftyTinkerer.png)
+  ![](../assets/Build_Craft/ThriftyTinkerer.png)
 
   ---
-  ![](image/Build_Craft/ThriftyRenovator.png)
+  ![](../assets/Build_Craft/ThriftyRenovator.png)
 
   ---
-  ![](image/Build_Craft/ThriftyDuplicator.png)
+  ![](../assets/Build_Craft/ThriftyDuplicator.png)
 
   ---
-  ![](image/Build_Craft/Blacksmith.png)
+  ![](../assets/Build_Craft/Blacksmith.png)
 
   ---
-  ![](image/Build_Craft/BlastFurnance.png)
+  ![](../assets/Build_Craft/BlastFurnance.png)
   
   ---
-  ![](image/Build_Craft/MacGyver.png)
+  ![](../assets/Build_Craft/MacGyver.png)
 
   ---
-  ![](image/Build_Craft/PrimitiveExpert.png)
+  ![](../assets/Build_Craft/PrimitiveExpert.png)
 
   ---
-  ![](image/Build_Craft/QualityCrafter.png)
+  ![](../assets/Build_Craft/QualityCrafter.png)
 
   ---
-  ![](image/Build_Craft/Researcher.png)
+  ![](../assets/Build_Craft/Researcher.png)
 </details>
 
 ---
 <details>
   <summary>⬇️<h3>SCAVENGING</h3>⬆️</summary>
 
-  ![](image/Scavenging/ShredderUltimate.png)
+  ![](../assets/Scavenging/ShredderUltimate.png)
 
   ---
-  ![](image/Scavenging/OptimizedRecycling.png)
+  ![](../assets/Scavenging/OptimizedRecycling.png)
 
   ---
-  ![](image/Scavenging/EfficientRecycling.png)
+  ![](../assets/Scavenging/EfficientRecycling.png)
 
   ---
-  ![](image/Scavenging/BarrelSmasher.png)
+  ![](../assets/Scavenging/BarrelSmasher.png)
 
   ---
-  ![](image/Scavenging/ComponentSalvager.png)
+  ![](../assets/Scavenging/ComponentSalvager.png)
 
   ---
-  ![](image/Scavenging/ElectronicsSalvager.png)
+  ![](../assets/Scavenging/ElectronicsSalvager.png)
 
   ---
-  ![](image/Scavenging/ElectronicsLuck.png)
+  ![](../assets/Scavenging/ElectronicsLuck.png)
 
   ---
-  ![](image/Scavenging/ComponentLuck.png)
+  ![](../assets/Scavenging/ComponentLuck.png)
 
   ---
-  ![](image/Scavenging/LootMagnet.png)
+  ![](../assets/Scavenging/LootMagnet.png)
 
   ---
-  ![](image/Scavenging/Looter.png)
+  ![](../assets/Scavenging/Looter.png)
 
   ---
-  ![](image/Scavenging/LuckDetective.png)
+  ![](../assets/Scavenging/LuckDetective.png)
 
   ---
-  ![](image/Scavenging/LuckyLooter.png)
+  ![](../assets/Scavenging/LuckyLooter.png)
   
   ---
-  ![](image/Scavenging/Digger.png)
+  ![](../assets/Scavenging/Digger.png)
   
   ---
-  ![](image/Scavenging/MagneticDigger.png)
+  ![](../assets/Scavenging/MagneticDigger.png)
 </details>
 
 <details>
   <summary>⬇️<h3>VEHICLES</h3>⬆️</summary>
 
-  ![](image/Vehicles/TankUltimate.png)
+  ![](../assets/Vehicles/TankUltimate.png)
 
   ---
-  ![](image/Vehicles/AmatureRider.png)
+  ![](../assets/Vehicles/AmatureRider.png)
 
   ---
-  ![](image/Vehicles/AdeptRider.png)
+  ![](../assets/Vehicles/AdeptRider.png)
 
   ---
-  ![](image/Vehicles/ExpertRider.png)
+  ![](../assets/Vehicles/ExpertRider.png)
 
   ---
-  ![](image/Vehicles/EconomicalCaptain.png)
+  ![](../assets/Vehicles/EconomicalCaptain.png)
 
   ---
-  ![](image/Vehicles/Yachtman.png)
+  ![](../assets/Vehicles/Yachtman.png)
 
   ---
-  ![](image/Vehicles/EconomicalPilot.png)
+  ![](../assets/Vehicles/EconomicalPilot.png)
 
   ---
-  ![](image/Vehicles/JetEngine.png)
+  ![](../assets/Vehicles/JetEngine.png)
 
   ---
-  ![](image/Vehicles/HybridPilot.png)
+  ![](../assets/Vehicles/HybridPilot.png)
 
   ---
-  ![](image/Vehicles/Airbags.png)
+  ![](../assets/Vehicles/Airbags.png)
 
   ---
-  ![](image/Vehicles/Mechanic.png)
+  ![](../assets/Vehicles/Mechanic.png)
 
   ---
-  ![](image/Vehicles/Supercharged.png)
+  ![](../assets/Vehicles/Supercharged.png)
 </details>
 
 ---
 <details>
   <summary>⬇️<h3>COOKING</h3>⬆️</summary>
 
-  ![](image/Cooking/BurstOfEnergyUltimate.png)
+  ![](../assets/Cooking/BurstOfEnergyUltimate.png)
 
   ---
-  ![](image/Cooking/EasilySatisfied.png)
+  ![](../assets/Cooking/EasilySatisfied.png)
 
   ---
-  ![](image/Cooking/FruggalRationer.png)
+  ![](../assets/Cooking/FruggalRationer.png)
 
   ---
-  ![](image/Cooking/FryCook.png)
+  ![](../assets/Cooking/FryCook.png)
 
   ---
-  ![](image/Cooking/Glutton.png)
+  ![](../assets/Cooking/Glutton.png)
 
   ---
-  ![](image/Cooking/IronStomach.png)
+  ![](../assets/Cooking/IronStomach.png)
 
   ---
-  ![](image/Cooking/KeenEye.png)
+  ![](../assets/Cooking/KeenEye.png)
 
   ---
-  ![](image/Cooking/MasterChef.png)
+  ![](../assets/Cooking/MasterChef.png)
 
   ---
-  ![](image/Cooking/Mixologist.png)
+  ![](../assets/Cooking/Mixologist.png)
 
   ---
-  ![](image/Cooking/SlowMetabolism.png)
+  ![](../assets/Cooking/SlowMetabolism.png)
 
   ---
-  ![](image/Cooking/TeaConnoisseur.png)
+  ![](../assets/Cooking/TeaConnoisseur.png)
 
   ---
-  ![](image/Cooking/TeaParty.png)
+  ![](../assets/Cooking/TeaParty.png)
 </details>
 
 ---
 <details>
   <summary>⬇️<h3>UNDERWATER</h3>⬆️</summary>
 
-  ![](image/Underwater/AquaticCombatant.png)
+  ![](../assets/Underwater/AquaticCombatant.png)
 
   ---
-  ![](image/Underwater/CageDiver.png)
+  ![](../assets/Underwater/CageDiver.png)
 
   ---
-  ![](image/Underwater/RecklessDiver.png)
+  ![](../assets/Underwater/RecklessDiver.png)
 
   ---
-  ![](image/Underwater/Gilled.png)
+  ![](../assets/Underwater/Gilled.png)
 
   ---
-  ![](image/Underwater/NimbleFingers.png)
+  ![](../assets/Underwater/NimbleFingers.png)
 
   ---
-  ![](image/Underwater/SharkVeterinarian.png)
+  ![](../assets/Underwater/SharkVeterinarian.png)
 
   ---
-  ![](image/Underwater/SonarPulse.png)
+  ![](../assets/Underwater/SonarPulse.png)
 
   ---
-  ![](image/Underwater/TreasureHunter.png)
+  ![](../assets/Underwater/TreasureHunter.png)
 </details>
 
 ---
 <details>
   <summary>⬇️<h3>RAIDING</h3>⬆️</summary>
 
-  ![](image/Raiding/RainHellfireUltimate.png)
+  ![](../assets/Raiding/RainHellfireUltimate.png)
 
   ---
-  ![](image/Raiding/BlastSuit.png)
+  ![](../assets/Raiding/BlastSuit.png)
 
   ---
-  ![](image/Raiding/Demolition.png)
+  ![](../assets/Raiding/Demolition.png)
 
   ---
-  ![](image/Raiding/MineSweeper.png)
+  ![](../assets/Raiding/MineSweeper.png)
 
   ---
-  ![](image/Raiding/Perceptive.png)
+  ![](../assets/Raiding/Perceptive.png)
 
   ---
-  ![](image/Raiding/PressedExplosive.png)
+  ![](../assets/Raiding/PressedExplosive.png)
 
   ---
-  ![](image/Raiding/ReliableExplosive.png)
+  ![](../assets/Raiding/ReliableExplosive.png)
 
   ---
-  ![](image/Raiding/TrapEvader.png)
+  ![](../assets/Raiding/TrapEvader.png)
 </details>
 
 ---
 <details>
   <summary>⬇️<h3>TEAM</h3>⬆️</summary>
 
-  ![](image/Team/BrewedBonding.png)
+  ![](../assets/Team/BrewedBonding.png)
 
   ---
-  ![](image/Team/ComfortingAura.png)
+  ![](../assets/Team/ComfortingAura.png)
 
   ---
-  ![](image/Team/CraftmansAura.png)
+  ![](../assets/Team/CraftmansAura.png)
 
   ---
-  ![](image/Team/FeastFellows.png)
+  ![](../assets/Team/FeastFellows.png)
 
   ---
-  ![](image/Team/Guidance.png)
+  ![](../assets/Team/Guidance.png)
 
   ---
-  ![](image/Team/Medic.png)
+  ![](../assets/Team/Medic.png)
 </details>

@@ -45,82 +45,82 @@ Here you will find all the different ingredients and how to gather them.
 <details>
   <summary>🔽  <h3>INGREDIENTS</h3>🔼 </summary>
   
-  ![](image/Ingredients/Cheese.png)
+  ![](../assets/Ingredients/Cheese.png)
   
 ---
-  ![](image/Ingredients/Milk.png)
+  ![](../assets/Ingredients/Milk.png)
 
 ---
-  ![](image/Ingredients/Pineapple.png)
+  ![](../assets/Ingredients/Pineapple.png)
 
 ---
-  ![](image/Ingredients/Rice.png)
+  ![](../assets/Ingredients/Rice.png)
 
 ---
-  ![](image/Ingredients/Spices.png)
+  ![](../assets/Ingredients/Spices.png)
 
 ---
-  ![](image/Ingredients/Sugar.png)
+  ![](../assets/Ingredients/Sugar.png)
 
 ---
-  ![](image/Ingredients/Seaweed.png)
+  ![](../assets/Ingredients/Seaweed.png)
   
 ---
-  ![](image/Ingredients/Tomato.png)
+  ![](../assets/Ingredients/Tomato.png)
 
 ---
-  ![](image/Ingredients/AntiRedBills.png)
+  ![](../assets/Ingredients/AntiRedBills.png)
 
 ---
-  ![](image/Ingredients/Apple.png)
+  ![](../assets/Ingredients/Apple.png)
 
 ---
-  ![](image/Ingredients/BlueBerry.png)
+  ![](../assets/Ingredients/BlueBerry.png)
 
 ---
-  ![](image/Ingredients/RedBerry.png)
+  ![](../assets/Ingredients/RedBerry.png)
   
 ---
-  ![](image/Ingredients/BreadLoaf.png)
+  ![](../assets/Ingredients/BreadLoaf.png)
 
 ---
-  ![](image/Ingredients/Chocolate.png)
+  ![](../assets/Ingredients/Chocolate.png)
 
 ---
-  ![](image/Ingredients/Cloth.png)
+  ![](../assets/Ingredients/Cloth.png)
 
 ---
-  ![](image/Ingredients/Corn.png)
+  ![](../assets/Ingredients/Corn.png)
 
 ---
-  ![](image/Ingredients/Egg.png)
+  ![](../assets/Ingredients/Egg.png)
 
 ---
-  ![](image/Ingredients/Mushroom.png)
+  ![](../assets/Ingredients/Mushroom.png)
 
 ---
-  ![](image/Ingredients/Pumpking.png)
+  ![](../assets/Ingredients/Pumpkin.png)
 
 ---
-  ![](image/Ingredients/RawBearMeat.png)
+  ![](../assets/Ingredients/RawBearMeat.png)
 
 ---
-  ![](image/Ingredients/RawChickenBreast.png)
+  ![](../assets/Ingredients/RawChickenBreast.png)
 
 ---
-  ![](image/Ingredients/RawFish.png)
+  ![](../assets/Ingredients/RawFish.png)
 
 ---
-  ![](image/Ingredients/RawPork.png)
+  ![](../assets/Ingredients/RawPork.png)
 
 ---
-  ![](image/Ingredients/RawWolfMeat.png)
+  ![](../assets/Ingredients/RawWolfMeat.png)
 
 ---
-  ![](image/Ingredients/SmallTrout.png)
+  ![](../assets/Ingredients/SmallTrout.png)
 
 ---
-  ![](image/Ingredients/potato.png)
+  ![](../assets/Ingredients/potato.png)
 </details>
 
 ---
@@ -135,28 +135,28 @@ This section is sorted into the most frequently used and "good to know" meals. A
   <summary>⏬<h3>MOST USED MEALS</h3>⏫ </summary>
 
   ### Farming & Quests
-  ![](image/AllMeals/BangersandMash.png)
+  ![](../assets/AllMeals/BangersandMash.png)
   
   - Best meal for Quartar Master Stones, Sulfur & Metal Ore T1-5 Quest.
 ---
-  ![](image/AllMeals/GrilledPorkKebab.png)
+  ![](../assets/AllMeals/GrilledPorkKebab.png)
 
   - Best meal for Quartar Master Wood T1-5 Quest.
 ---
-  ![](image/AllMeals/PorkOmelette.png)
+  ![](../assets/AllMeals/PorkOmelette.png)
 
   - Best meal for Crafting Quests.
 ---
-  ![](image/AllMeals/MushroomSoup.png)
+  ![](../assets/AllMeals/MushroomSoup.png)
 
   - Best meal for harvesting player-grown plants (Hemp, Orchids etc.).
 ---
-  ![](image/AllMeals/SucculentChickenSandwhich.png)
+  ![](../assets/AllMeals/SucculentChickenSandwhich.png)
 
   - Best meal for harvesting animals (bone fragments).
 
 ---
-  ![](image/AllMeals/ChocolateCalzone.png)
+  ![](../assets/AllMeals/ChocolateCalzone.png)
 
   - Best meal for tackling Bradley.
 </details>
@@ -167,35 +167,35 @@ This section is sorted into the most frequently used and "good to know" meals. A
   <summary>🔽<h3>GOOD MEALS</h3>🔼</summary>
   
   ### Good Meals to know about
-  ![](image/AllMeals/BakedTrout.png)
+  ![](../assets/AllMeals/BakedTrout.png)
 
   - Best meal for fishing.
 ---
-  ![](image/AllMeals/SteakDinner.png)
+  ![](../assets/AllMeals/SteakDinner.png)
   
   - Good Meal for tackling challenges like helis, bradley etc.
 ---
-  ![](image/AllMeals/PumpkinPie.png)
+  ![](../assets/AllMeals/PumpkinPie.png)
 
   - Best healing meal.
 ---
-  ![](image/AllMeals/ChernobylCasserole.png)
+  ![](../assets/AllMeals/ChernobylCasserole.png)
 
   - Only Anti-Rad meal.
 ---
-  ![](image/AllMeals/GnocchiNeapolitan.png)
+  ![](../assets/AllMeals/GnocchiNeapolitan.png)
 
   - Good preparation meal to tackle helis for example.
 ---
-  ![](image/AllMeals/Pancakes.png)
+  ![](../assets/AllMeals/Pancakes.png)
 
   - Good meal for raiding.
 ---
-  ![](image/AllMeals/FrenchToast.png)
+  ![](../assets/AllMeals/FrenchToast.png)
 
   - Good prepartion meal to tackle helis or harbinger.
 ---
-  ![](image/AllMeals/BerryCobbler.png)
+  ![](../assets/AllMeals/BerryCobbler.png)
 
   - Best meal for heal share, for example taking down harbinger or legendary heli in a group.
 </details>
@@ -208,110 +208,110 @@ This section is sorted into the most frequently used and "good to know" meals. A
   ### List of all the other meals
   - These meals only have niche use-cases, and are used rarely.
 
-  ![](image/AllMeals/AppleCake.png)
+  ![](../assets/AllMeals/AppleCake.png)
   
 ---
-  ![](image/AllMeals/BearBurger.png)
+  ![](../assets/AllMeals/BearBurger.png)
 
 ---
-  ![](image/AllMeals/BearStew.png)
+  ![](../assets/AllMeals/BearStew.png)
 
 ---
-  ![](image/AllMeals/BeefStew.png)
+  ![](../assets/AllMeals/BeefStew.png)
 
 ---
-  ![](image/AllMeals/Burrito.png)
+  ![](../assets/AllMeals/Burrito.png)
 
 ---
-  ![](image/AllMeals/Cannelloni.png)
+  ![](../assets/AllMeals/Cannelloni.png)
   
 ---
-  ![](image/AllMeals/Cheese.png)
+  ![](../assets/AllMeals/Cheese.png)
 
 ---
-  ![](image/AllMeals/CheeseToasty.png)
+  ![](../assets/AllMeals/CheeseToasty.png)
 
 ---
-  ![](image/AllMeals/ChickenAndMushroom.png)
+  ![](../assets/AllMeals/ChickenAndMushroom.png)
 
 ---
-  ![](image/AllMeals/ChickenBurger.png)
+  ![](../assets/AllMeals/ChickenBurger.png)
 
 ---
-  ![](image/AllMeals/ChickenDinner.png)
+  ![](../assets/AllMeals/ChickenDinner.png)
 
 ---
-  ![](image/AllMeals/ChilliCheeseFries.png)
+  ![](../assets/AllMeals/ChilliCheeseFries.png)
 
 ---
-  ![](image/AllMeals/ChilliConCarne.png)
+  ![](../assets/AllMeals/ChilliConCarne.png)
 
 ---
-  ![](image/AllMeals/ChocolateBrownie.png)
+  ![](../assets/AllMeals/ChocolateBrownie.png)
 
 ---
-  ![](image/AllMeals/CottagePie.png)
+  ![](../assets/AllMeals/CottagePie.png)
 
 ---
-  ![](image/AllMeals/Curry.png)
+  ![](../assets/AllMeals/Curry.png)
 
 ---
-  ![](image/AllMeals/DarkChocolateMousse.png)
+  ![](../assets/AllMeals/DarkChocolateMousse.png)
 
 ---
-  ![](image/AllMeals/FishAndChips.png)
+  ![](../assets/AllMeals/FishAndChips.png)
 
 ---
-  ![](image/AllMeals/FishEyeSoup.png)
+  ![](../assets/AllMeals/FishEyeSoup.png)
 
 ---
-  ![](image/AllMeals/FriedChicken.png)
+  ![](../assets/AllMeals/FriedChicken.png)
 
 ---
-  ![](image/AllMeals/HamPineapplePizza.png)
+  ![](../assets/AllMeals/HamPineapplePizza.png)
 
 ---
-  ![](image/AllMeals/HorseFeed.png)
+  ![](../assets/AllMeals/HorseFeed.png)
 
 ---
-  ![](image/AllMeals/Icecream.png)
+  ![](../assets/AllMeals/Icecream.png)
 
 ---
-  ![](image/AllMeals/MozzarellaSticks.png)
+  ![](../assets/AllMeals/MozzarellaSticks.png)
 
 ---
-  ![](image/AllMeals/PackedLunch.png)
+  ![](../assets/AllMeals/PackedLunch.png)
 
 ---
-  ![](image/AllMeals/PepperoniPizza.png)
+  ![](../assets/AllMeals/PepperoniPizza.png)
 
 ---
-  ![](image/AllMeals/PineappleFritta.png)
+  ![](../assets/AllMeals/PineappleFritta.png)
 
 ---
-  ![](image/AllMeals/PumpkinSoup.png)
+  ![](../assets/AllMeals/PumpkinSoup.png)
 
 ---
-  ![](image/AllMeals/RoastChickenPie.png)
+  ![](../assets/AllMeals/RoastChickenPie.png)
 
 ---
-  ![](image/AllMeals/SausageRoll.png)
+  ![](../assets/AllMeals/SausageRoll.png)
 
 ---
-  ![](image/AllMeals/ScrambledEggs.png)
+  ![](../assets/AllMeals/ScrambledEggs.png)
 
 ---
-  ![](image/AllMeals/SpaghettiAndMeatballs.png)
+  ![](../assets/AllMeals/SpaghettiAndMeatballs.png)
 
 ---
-  ![](image/AllMeals/SpongeCake.png)
+  ![](../assets/AllMeals/SpongeCake.png)
 
 ---
-  ![](image/AllMeals/SteakWithRedWineJus.png)
+  ![](../assets/AllMeals/SteakWithRedWineJus.png)
 
 ---
-  ![](image/AllMeals/Sushi.png)
+  ![](../assets/AllMeals/Sushi.png)
 
 ---
-  ![](image/AllMeals/VegetablePizza.png)
+  ![](../assets/AllMeals/VegetablePizza.png)
 </details>
